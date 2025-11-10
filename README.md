@@ -4,7 +4,7 @@
 FitFindr is an AI-powered fashion recommendation app that personalizes outfit ideas based on your body shape, style, and confidence.
 Upload a photo or describe your vibe — FitFindr uses computer vision, Gemini AI, and web intelligence to curate outfits that fit you, not just your size.
 
-🌟 Features
+## 🌟 Features
 
 👕 Smart Outfit Classification: YOLO model classifies clothing types from Pinterest images.
 
@@ -16,14 +16,14 @@ Upload a photo or describe your vibe — FitFindr uses computer vision, Gemini A
 
 💾 Lightweight Architecture: JSON datastore for simple, fast MVP performance.
 
-🧱 Tech Stack
+## 🧱 Tech Stack
 
 Frontend: ReactTS + CSS + HTML 
 Backend: Python (FastAPI)
 AI Models: YOLOv8, Google Gemini 2.5 Pro, CLIP Embeddings
 Data: Pinterest-scraped outfit images, hierarchical JSON fashion taxonomy
 
-🚀 Getting Started
+## 🚀 Getting Started
 1️⃣ Clone the repo
 git clone https://github.com/yourusername/fitfindr.git
 cd fitfindr
@@ -42,7 +42,7 @@ npm start
 
 Go to http://localhost:3000 and start exploring your AI stylist 🎨
 
-🧠 Inspiration
+## 🧠 Inspiration
 
 We built FitFindr because fashion shouldn’t be intimidating or exclusive.
 People deserve clothes that celebrate who they are — not who the internet thinks they should be.
