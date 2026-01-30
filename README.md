@@ -4,7 +4,7 @@
 FitFindr is an AI-powered fashion recommendation app that personalizes outfit ideas based on your body shape, style, and confidence.
 Upload a photo or describe your vibe — FitFindr uses computer vision, Gemini AI, and web intelligence to curate outfits that fit you, not just your size.
 
-## 🌟 Features
+# 🌟 Features
 
 👕 Smart Outfit Classification: YOLO model classifies clothing types from Pinterest images.
 
